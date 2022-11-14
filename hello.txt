@@ -1,9 +1,6 @@
+I am branch hot-fix
 fuckyou    22
 hello git  33
 hello git  44
 hello git
 hello git
-hello git
-hello git
-hello git
-fuck hello
